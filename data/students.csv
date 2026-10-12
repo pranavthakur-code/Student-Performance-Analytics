@@ -1,0 +1,21 @@
+Student_ID,Name,Department,Python Marks ,Data Structures Marks,Java Marks ,Attendance
+ST001,Rahul Sharma,BCA,85,78,82,92
+ST002,Priya Singh,BCA,91,88,90,95
+ST003,Aman Kumar,BCA,67,72,70,84
+ST004,Neha Verma,BCA,76,81,79,88
+ST005,Karan Mehta,BCA,55,61,58,75
+ST006,Anjali Gupta,BCA,93,95,91,97
+ST007,Rohit Yadav,BCA,48,52,45,68
+ST008,Simran Kaur,BCA,82,85,88,91
+ST009,Arjun Patel,BCA,71,69,74,80
+ST010,Pooja Sharma,BCA,89,84,87,93
+ST011,Vikas Singh,BCA,62,65,60,78
+ST012,Isha Kapoor,BCA,95,92,96,98
+ST013,Deepak Kumar,BCA,58,55,63,72
+ST014,Riya Malhotra,BCA,79,77,81,86
+ST015,Manish Gupta,BCA,44,49,46,65
+ST016,Sneha Jain,BCA,87,90,85,94
+ST017,Varun Joshi,BCA,73,75,71,82
+ST018,Muskan Ali,BCA,68,64,69,79
+ST019,Aditya Rao,BCA,92,89,94,96
+ST020,Tanya Sethi,BCA,81,83,80,90
